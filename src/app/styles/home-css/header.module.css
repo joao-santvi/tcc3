@@ -1,0 +1,19 @@
+.header {
+    background-color: #333;
+    padding: 1rem;
+    color: #fff;
+  }
+  
+  .navLinks {
+    list-style: none;
+    display: flex;
+  }
+  
+  .navLinks li {
+    margin-right: 1rem;
+  }
+  
+  .navLinks a {
+    color: #fff;
+    text-decoration: none;
+  }
